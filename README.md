@@ -481,7 +481,7 @@ export default defineConfig({
 ### 安装
 
 ```bash
-yarn ass sass-loader --dev
+yarn add sass-loader --dev
 yarn add dart-sass --dev
 yarn add sass --dev
 ```
